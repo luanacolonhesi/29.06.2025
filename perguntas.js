@@ -1,15 +1,15 @@
 criaCartao(
-    'Programação',
-    'O que é JavaScript?',
-    'JavaScript é uma linguagem de programação.'
+    'Conhecimentos gerais',
+    'Quuais as cores da bandeirra do Brasil?',
+    'Verde, amarelo, azul e branco.'
     );
     criaCartao(
-    'Geografia',
-    'Qual a capital da França?',
-    'A capital da França é Paris.'
+    'Famosos',
+    'Qual o nome da filha do Luan Santana?',
+    'Serena.'
     );
     criaCartao(
-    'Matemática',
-    'Quanto é 7 x 8?',
-    '7 x 8 = 56.'
+    'Cores',
+    'Juntando vermelho e amarelo, qual cor temos?',
+    'Laranja.'
     );
